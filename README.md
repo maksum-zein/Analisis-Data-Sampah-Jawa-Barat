@@ -1,5 +1,6 @@
 # Analisis-Data-Sampah-Jawa-Barat
 
+![kelolasampah](https://github.com/maksum-zein/Analisis-Data-Sampah-Jawa-Barat/blob/main/Kelola%20Sampah%2C%20Selamatkan%20Bumi.png)
 
 # 1. Introduction
 Analisis ini bertujuan untuk memahami data Timbulan Sampah, Komposisi Sampah, dan capaian pengelolaan sampah di Indonesia. Dengan menganalisis data ini, kita dapat mengidentifikasi tren produksi sampah, komposisi sampah, dan efektivitas pengelolaan sampah. Hasil analisis ini diharapkan dapat memberikan wawasan yang berguna bagi pengambil kebijakan dan masyarakat dalam upaya pengelolaan sampah yang lebih baik.
